@@ -1,10 +1,7 @@
 
 <html>
 
-<head>
-    <meta charset="UTF-8">
-    <title>Password Policy Enforcement</title>
-</head>
+
 
 <body>
     <h1>Password Policy Enforcement</h1>
